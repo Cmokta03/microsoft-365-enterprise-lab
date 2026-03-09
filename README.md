@@ -10,6 +10,5 @@ In this phase, I built the identity foundation. I configured a custom domain, ma
 * **Device Join:** Successfully performed an **Entra ID Join** for a Windows 11 VM.
 
 ### Phase 1 Proof:
-![Phase 1 Proof](Screenshots (Phase1)/11_Entra_ID_Join_Confirmation.png)
-
+![Phase 1 Proof](screenshots%20(Phase1)/11_Entra_ID_Join_Confirmation.png)
 ---

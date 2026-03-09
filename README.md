@@ -1,3 +1,59 @@
+# Microsoft 365 Enterprise Administration Lab
+
+## Overview
+This project demonstrates hands-on implementation of Microsoft 365 enterprise services including identity management, device management, collaboration tools and security compliance.
+
+The lab simulates a small enterprise environment using Microsoft 365 services.
+
+## Technologies Used
+
+- Microsoft Entra ID
+- Microsoft Intune
+- Microsoft 365 Admin Center
+- Exchange Online
+- SharePoint Online
+- Microsoft Teams
+- Microsoft Defender
+- Microsoft Purview
+
+## Project Phases
+
+### Phase 1 – Identity & Access (Entra ID)
+- User creation
+- Security groups
+- License assignment
+- Multi-Factor Authentication
+- Conditional Access
+
+### Phase 2 – Microsoft 365 Admin Setup
+- Tenant configuration
+- Admin roles
+- Service configuration
+
+### Phase 3 – Endpoint Management (Intune)
+- Windows device enrollment
+- iPhone enrollment
+- Win32 application deployment
+- BitLocker policy
+- Attack Surface Reduction rules
+
+### Phase 4 – Collaboration Services
+- SharePoint site creation
+- OneDrive configuration
+- Microsoft Teams collaboration
+
+### Phase 5 – Security & Compliance
+- Microsoft Defender policies
+- Data Loss Prevention
+- eDiscovery cases
+
+## Skills Demonstrated
+
+- Cloud Identity Management
+- Endpoint Security
+- Enterprise Collaboration
+- Microsoft 365 Administration
+- Security & Compliance
 
 
 ## 🛠 Phase 1: Identity & Access Management (Entra ID)

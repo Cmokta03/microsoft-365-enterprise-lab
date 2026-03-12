@@ -83,3 +83,17 @@ In this phase, I moved beyond identity to manage and secure Windows 11 and iOS e
 ![BitLocker Verification](Screenshots_Phase2/09_BitLocker_PowerShell_Verification.png)
 
 ---
+## 📧 Phase 3: Messaging & Collaboration (Exchange Online)
+
+In this phase, I configured the enterprise email environment, focusing on mail flow security, resource management, and administrative auditing.
+
+### Key Technical Achievements:
+* **Mail Flow Management:** Created **Transport Rules** to apply "External Email" warning tags to prevent phishing.
+* **Shared Resources:** Configured **Shared Mailboxes** and **Room/Resource Mailboxes** with proper delegation (Full Access/Send As).
+* **Security & Compliance:** Implemented **Anti-Spam policies** and performed **Message Traces** to troubleshoot delivery issues.
+* **Automation:** Developed **Dynamic Distribution Groups** to automate membership based on user attributes.
+* **Modern Scheduling:** Deployed **Microsoft Bookings** for automated appointment scheduling.
+
+### Phase 3 Evidence:
+![Message Trace Proof](Screenshots_Phase3/16_Exchange_Message_Trace_Troubleshooting.png)
+![Transport Rule Verification](Screenshots_Phase3/13_Transport_Rule_Verification.png)

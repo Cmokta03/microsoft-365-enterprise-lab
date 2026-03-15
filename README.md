@@ -97,3 +97,20 @@ In this phase, I configured the enterprise email environment, focusing on mail f
 ### Phase 3 Evidence:
 ![Message Trace Proof](Screenshots_Phase3/16_Exchange_Message_Trace_Troubleshooting.png)
 ![Transport Rule Verification](Screenshots_Phase3/13_Transport_Rule_Verification.png)
+
+---
+## 🏗️ Phase 4: SharePoint Online & Content Governance
+
+In this phase, I designed a SharePoint architecture focused on internal communication, collaboration, and strict document lifecycle management.
+
+### Key Technical Achievements:
+* **Site Architecture:** Deployed **Team Sites** for departmental collaboration and **Communication Sites** for company-wide news.
+* **Hub Site Integration:** Registered sites as **Hub Sites** to centralize navigation and search across the tenant.
+* **Security & Permissions:** Implemented **Granular Access Control**, successfully verifying "Access Denied" scenarios for unauthorized users (e.g., John).
+* **Compliance Workflow:** Configured **Document Versioning** and **Content Approval** workflows to ensure document integrity and administrative oversight.
+
+### Phase 5 Evidence:
+![SharePoint Permissions](Screenshots_Phase4/06_Permission_Verification_Access_Denied.png)
+![Versioning Workflow](Screenshots_Phase4/09_Content_Approval_Workflow_Success.png)
+
+---

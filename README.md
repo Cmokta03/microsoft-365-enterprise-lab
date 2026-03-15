@@ -109,8 +109,24 @@ In this phase, I designed a SharePoint architecture focused on internal communic
 * **Security & Permissions:** Implemented **Granular Access Control**, successfully verifying "Access Denied" scenarios for unauthorized users (e.g., John).
 * **Compliance Workflow:** Configured **Document Versioning** and **Content Approval** workflows to ensure document integrity and administrative oversight.
 
-### Phase 5 Evidence:
+### Phase 4 Evidence:
 ![SharePoint Permissions](Screenshots_Phase4/06_Permission_Verification_Access_Denied.png)
 ![Versioning Workflow](Screenshots_Phase4/09_Content_Approval_Workflow_Success.png)
+
+---
+## ☁️ Phase 5: Cloud Storage Governance (OneDrive & SharePoint)
+
+In this phase, I implemented data governance and security controls for cloud storage to prevent data leakage and manage tenant resources.
+
+### Key Technical Achievements:
+* **Sync Governance:** Restricted OneDrive sync to specific joined domains and blocked unauthorized file types (.exe) from cloud synchronization.
+* **Storage Optimization:** Configured **Storage Quotas** to manage tenant capacity and ensure fair resource distribution.
+* **Data Retention:** Implemented **Retention Policies** to meet compliance requirements for data preservation.
+* **Sharing Security:** Configured **External Sharing** settings to restrict guest access and enforce corporate data boundaries.
+* **Administrative Delegation:** Performed delegated access procedures to manage user-specific storage for auditing purposes.
+
+### Phase 5 Evidence:
+![Sync Block Proof](Screenshots_Phase5/02_File_Extension_Sync_Block_EXE.png)
+![Sharing Governance](Screenshots_Phase5/03_SharePoint_External_Sharing_Governance.png)
 
 ---

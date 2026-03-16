@@ -144,3 +144,20 @@ In this final advanced phase, I configured a full Security Operations (SecOps) e
 ### Phase 6 Evidence:
 ![Device Isolation Proof](Screenshots_Phase6/10_Device_Isolation_Network_Block_Verification.png)
 ![Vulnerability Assessment](Screenshots_Phase6/06_Threat_and_Vulnerability_Management_Inventory.png)
+
+---
+## ⚖️ Phase 7: Data Governance & Compliance (Microsoft Purview)
+
+In this phase, I implemented data protection strategies to identify, classify, and protect sensitive information across the Microsoft 365 tenant.
+
+### Key Technical Achievements:
+* **Information Protection:** Created and published **Sensitivity Labels** to classify documents and enforce encryption/visual markings.
+* **Data Loss Prevention (DLP):** Configured DLP policies to detect and block the unauthorized sharing of sensitive info types (e.g., Credit Card numbers/PCI-DSS).
+* **Data Lifecycle Management:** Established **Retention Policies** to ensure data is preserved for legal requirements and deleted when no longer needed.
+* **Compliance Management:** Leveraged the **Compliance Manager** to track improvements against regulatory frameworks and security baselines.
+
+### Phase 7 Evidence:
+![DLP Rule Logic](Screenshots_Phase7/07_DLP_Rule_Logic_and_Incident_Reports.png)
+![Sensitivity Label in Action](Screenshots_Phase7/04_Endpoint_Sensitivity_Label_Verification.png)
+
+---

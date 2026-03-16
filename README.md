@@ -130,3 +130,17 @@ In this phase, I implemented data governance and security controls for cloud sto
 ![Sharing Governance](Screenshots_Phase5/03_SharePoint_External_Sharing_Governance.png)
 
 ---
+## 🛡️ Phase 6: Endpoint Security & Response (Microsoft Defender for Endpoint)
+
+In this final advanced phase, I configured a full Security Operations (SecOps) environment to detect, investigate, and respond to advanced threats.
+
+### Key Technical Achievements:
+* **Endpoint Detection & Response (EDR):** Onboarded Windows endpoints to **Defender for Endpoint** and monitored device health/exposure scores.
+* **Threat & Vulnerability Management (TVM):** Performed software inventory audits and initiated remediation requests for high-risk vulnerabilities.
+* **Active Incident Response:** Demonstrated containment capabilities by performing **Device Isolation** to stop lateral movement during a simulated breach.
+* **Automated Investigation (AIR):** Leveraged XDR capabilities to manage automated forensic investigations and remediation.
+* **Network Security:** Implemented **Web Content Filtering** to block high-risk domains and enforced host-based Firewall policies.
+
+### Phase 6 Evidence:
+![Device Isolation Proof](Screenshots_Phase6/10_Device_Isolation_Network_Block_Verification.png)
+![Vulnerability Assessment](Screenshots_Phase6/06_Threat_and_Vulnerability_Management_Inventory.png)
